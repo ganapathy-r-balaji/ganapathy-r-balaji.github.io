@@ -1,5 +1,8 @@
 # Sr. Data Analyst (Project Lead)
 
+### Professional Summary
+Results-oriented, experienced Data Analyst with a strong focus on business intelligence, data analysis, and visualization. Tableau Certified professional with a proven record in turning complex data into actionable insights using advanced analytics to drive business growth. Proficient in Python, SQL, and various BI tools.
+
 ### Technical Skills
 - Programming Python, SQL, and R; Academic Experience with Spark, Scala, MATLAB
 - Business Intelligence Tableau, Power BI, DATk, Metabase
